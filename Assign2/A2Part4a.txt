@@ -1,0 +1,9 @@
+// A2Part4a.txt
+a=5+7
+b=3.5
+c=a-0.5-20
+g=a+b+c
+print a
+print b
+print c
+print g

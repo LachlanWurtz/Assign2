@@ -1,0 +1,7 @@
+// A2Part5err.txt
+a=5+7
+b=5
+g=6.71+5-1
+print :a
+
+

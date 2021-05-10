@@ -1,0 +1,8 @@
+// A2Part4err.txt
+a=5+7
+
+b=5
+pring b
+
+
+

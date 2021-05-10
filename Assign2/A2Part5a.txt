@@ -1,0 +1,12 @@
+// A2Part5a.txt
+a=5
+b=3.5
+d=80
+c=a+2*b  
+z=2*b+a
+g=a+2+d/4
+q=d/4+a+2
+print z
+print q
+print c
+print g
